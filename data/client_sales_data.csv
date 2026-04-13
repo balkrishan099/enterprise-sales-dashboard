@@ -1,1 +1,16 @@
-
+order_id,cust_id,region,product_category,product_subcategory,revenue,profit_amount,quantity,order_dt
+1001,C101,North,Electronics,Mobile,25000,4000,2,2023-01-05
+1002,C102,West,Furniture,Chair,18000,2500,1,2023-01-07
+1003,C103,South,Electronics,Laptop,55000,9000,1,2023-01-10
+1004,C104,East,Office Supplies,Printer,12000,1500,1,2023-01-12
+1005,C105,North,Furniture,Table,22000,3200,1,2023-02-02
+1006,C101,West,Electronics,Headphones,5000,800,3,2023-02-05
+1007,C106,South,Office Supplies,Stationery,3000,400,5,2023-02-11
+1008,C107,East,Electronics,Tablet,27000,4200,1,2023-03-01
+1009,C108,North,Furniture,Sofa,65000,12000,1,2023-03-04
+1010,C109,West,Electronics,Camera,45000,7000,1,2023-03-08
+1011,C110,South,Office Supplies,Monitor,15000,2000,2,2023-03-15
+1012,C102,East,Furniture,Bed,72000,15000,1,2023-04-02
+1013,C111,North,Electronics,Speaker,8000,1200,2,2023-04-06
+1014,C112,West,Office Supplies,Keyboard,4000,600,3,2023-04-10
+1015,C113,South,Furniture,Cupboard,54000,9500,1,2023-04-15
