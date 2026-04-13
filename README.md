@@ -1,2 +1,18 @@
-# enterprise-sales-dashboard
-Developed an interactive Power BI dashboard to analyze enterprise sales performance across regions and product categories. Performed data cleaning using Python and created SQL queries to generate KPIs such as revenue trend, profit margin, and top customers. Dataset represents anonymized enterprise transactional data.
+# Enterprise Sales Dashboard
+
+Tools:
+SQL
+Python
+Power BI
+
+Description:
+Analyzed sales performance data to identify revenue trends and profit margin insights.
+
+Key Metrics:
+Revenue trend
+profit margin
+top customers
+regional performance
+
+Dataset:
+Dataset represents anonymized enterprise transactional data.
